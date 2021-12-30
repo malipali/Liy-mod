@@ -29,7 +29,6 @@ end
 -- Player missed a note by letting it go offscreen
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Knifenote' then
-		setProperty('health', 10)
-			playSound('kinfe', 1)
+	        setProperty('health', 0.1);
 	end
 end
