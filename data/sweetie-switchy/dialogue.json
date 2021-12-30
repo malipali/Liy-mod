@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "liy portrait",
+			"text": "*casually trying to find a way to escape from Four*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop funni"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Woah! Who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bee skobidibep skabaladabobeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhhhhhhhhhhhhhhhhhh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mkay"
+		}
+	]
+}

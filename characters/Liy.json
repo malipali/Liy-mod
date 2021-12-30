@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				66,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lehft"
+		},
+		{
+			"offsets": [
+				-7,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "doown"
+		},
+		{
+			"offsets": [
+				6,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upe"
+		},
+		{
+			"offsets": [
+				-12,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/liyumod",
+	"position": [
+		-60,
+		350
+	],
+	"healthicon": "liy",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		182,
+		229
+	],
+	"camera_position": [
+		-95,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

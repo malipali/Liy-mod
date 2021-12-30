@@ -1,0 +1,40 @@
+{
+	"storyName": "funny lightswitch",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "liy",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"liymenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sweetie switchy",
+			"liy",
+			[
+				187,
+				202,
+				215
+			]
+		],
+		[
+			"click clock",
+			"liy",
+			[
+				187,
+				202,
+				215
+			]
+		]
+	],
+	"weekName": "week liy"
+}

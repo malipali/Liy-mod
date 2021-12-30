@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Liy menu player.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="liy menu0000" x="0" y="0" width="346" height="371" frameX="-9" frameY="-2" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0001" x="346" y="0" width="351" height="371" frameX="-6" frameY="-2" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0002" x="697" y="0" width="362" height="372" frameX="0" frameY="0" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0003" x="1059" y="0" width="357" height="371" frameX="-2" frameY="-1" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0004" x="1059" y="0" width="357" height="371" frameX="-2" frameY="-1" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0005" x="1416" y="0" width="346" height="370" frameX="-9" frameY="-2" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0006" x="0" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0007" x="0" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0008" x="346" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0009" x="346" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0010" x="346" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0011" x="346" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0012" x="346" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy menu0013" x="346" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+</TextureAtlas>

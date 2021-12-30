@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dude why don't we escape from here together?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why not?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you have to beat me first"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's dumb"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop skabidibep next song pls"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

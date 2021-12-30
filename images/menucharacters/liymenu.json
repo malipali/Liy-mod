@@ -1,0 +1,10 @@
+{
+	"idle_anim": "liy menu",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		57,
+		-38
+	],
+	"scale": 0.55,
+	"image": "liy menu"
+}
