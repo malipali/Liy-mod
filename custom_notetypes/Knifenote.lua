@@ -7,6 +7,7 @@ function onCreate()
 
 			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') then --Doesn't let Dad/Opponent notes get ignored
 				setPropertyFromGroup('unspawnNotes', i, 'ignoreNote', false); --Miss has penalties
+					playSound('kinfe', 0.5)
 			end
 		end
 	end
@@ -20,7 +21,7 @@ end
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'Knifenote' then
-		playSound('kinfe', 0.5)
+		--idk
 	end
 end
 
@@ -28,6 +29,7 @@ end
 -- Player missed a note by letting it go offscreen
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Knifenote' then
-		setProperty('health', -450)
+		setProperty('health', 10)
+			playSound('kinfe', 1)
 	end
 end
