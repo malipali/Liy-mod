@@ -20,7 +20,7 @@ end
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'Knifenote' then
-		-- put something here if you want
+		playSound('kinfe', 0.5)
 	end
 end
 
@@ -28,6 +28,6 @@ end
 -- Player missed a note by letting it go offscreen
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Knifenote' then
-		setProperty('health', -500)
+		setProperty('health', -450)
 	end
 end
