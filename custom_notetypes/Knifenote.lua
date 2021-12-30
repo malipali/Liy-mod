@@ -7,7 +7,7 @@ function onCreate()
 
 			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') then --Doesn't let Dad/Opponent notes get ignored
 				setPropertyFromGroup('unspawnNotes', i, 'ignoreNote', false); --Miss has penalties
-					playSound('kinfe', 0.5)
+					playSound('knifesound', 0.5)
 			end
 		end
 	end
