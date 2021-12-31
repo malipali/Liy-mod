@@ -31,6 +31,9 @@ end
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Knifenote' then
 		playSound('slice', 0.3)
-	        	setProperty('health', 0.1);
+			health = getProperty('health')
+				if getProperty('health') > 0.05 then
+			setProperty('health', health- 0.7);
+		end
 	end
 end
