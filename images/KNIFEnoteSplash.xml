@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knifespoish.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash knife 10000" x="0" y="0" width="204" height="196" frameX="-90" frameY="-71" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="note splash knife 10001" x="204" y="0" width="299" height="254" frameX="-42" frameY="-32" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="note splash knife 10002" x="503" y="0" width="371" height="295" frameX="-3" frameY="-8" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="note splash knife 10003" x="0" y="295" width="382" height="304"/>
+</TextureAtlas>

@@ -3,11 +3,12 @@ function onCreate()
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		--Check if the note is an Knife note
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Knifenote' then
-			setPropertyFromGroup('unspawnNotes', i, 'texture', 'Knifenote'); --Change texture
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'knifeNoteAsset'); --Change texture
+				setPropertyFromGroup('unspawnNotes', i, 'noteSplashTexture', 'KNIFEnoteSplashes'); --Change splash
 
 			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') then --Doesn't let Dad/Opponent notes get ignored
 				setPropertyFromGroup('unspawnNotes', i, 'ignoreNote', false); --Miss has penalties
-					playSound('knifesound', 0.5)
+					playSound('slice', 0.5)
 			end
 		end
 	end
@@ -21,7 +22,7 @@ end
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'Knifenote' then
-		--idk
+		playSound('slice', 0.3)
 	end
 end
 
@@ -29,6 +30,7 @@ end
 -- Player missed a note by letting it go offscreen
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Knifenote' then
-	        setProperty('health', 0.1);
+		playSound('slice', 0.3)
+	        	setProperty('health', 0.1);
 	end
 end
