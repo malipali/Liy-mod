@@ -11,7 +11,7 @@
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": false,
-				"bpm": 150
+				"bpm": 170
 			},
 			{
 				"sectionNotes": [],
@@ -21,7 +21,7 @@
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": false,
-				"bpm": 150
+				"bpm": 170
 			},
 			{
 				"sectionNotes": [],
@@ -31,7 +31,7 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 150
+				"bpm": 170
 			},
 			{
 				"sectionNotes": [],
@@ -41,7 +41,7 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 150
+				"bpm": 170
 			},
 			{
 				"lengthInSteps": 16,
