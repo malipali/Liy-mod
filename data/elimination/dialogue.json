@@ -2,10 +2,31 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
+			"portrait": "Liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok i'm tired of your crap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm just gonna kill you, no one cares if i prevent death anyways"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*flips her switch like in BFB 5*"
+		},
+		{
+			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "start dialogue test"
+			"text": "beep boob bop "
 		}
 	]
 }

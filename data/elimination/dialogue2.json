@@ -2,10 +2,59 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hi there, strangers! What are you two doing in here? I don't think you were in my show"
+		},
+		{
+			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "end dialogue test"
+			"text": "beep boop skadobeep skopidepoop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, so her dad sent you two here... Well, you two shouldn't be in here, it's only for who's eliminated"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skabadabadobeep bedabadoopeepoobeepo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Around here there's only the Fourest and the EXIT, there's nothing to explore in here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "spoopydepoo bedoop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, fine, i'll let you go to the EXIT since you insist so much"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*TO BE CONTINUED*"
 		}
 	]
 }
