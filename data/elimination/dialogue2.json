@@ -51,9 +51,9 @@
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "nothing",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "nothing",
 			"text": "*TO BE CONTINUED*"
 		}
 	]

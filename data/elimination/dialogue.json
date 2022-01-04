@@ -12,7 +12,7 @@
 			"portrait": "liyportrait",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "I'm just gonna kill you, no one cares if i prevent death anyways"
+			"text": "I'm just gonna kill you, no one cares when i prevent death anyways"
 		},
 		{
 			"speed": 0.05,
@@ -26,7 +26,7 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "beep boob bop "
+			"text": "beep boob bop"
 		}
 	]
 }
