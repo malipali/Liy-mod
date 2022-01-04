@@ -1,60 +1,60 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Hi there, strangers! What are you two doing in here? I don't think you were in my show"
+			"text": "Hi there, strangers! What are you two doing in here? I don't think you were in my show",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "beep boop skadobeep skopidepoop"
+			"text": "beep boop skadobeep skopidepoop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Oh, so her dad sent you two here... Well, you two shouldn't be in here, it's only for who's eliminated"
+			"text": "Oh, so her dad sent you two here... Well, you two shouldn't be in here, it's only for who's eliminated",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "skabadabadobeep bedabadoopeepoobeepo"
+			"text": "skabadabadobeep bedabadoopeepoobeepo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Around here there's only the Fourest and the EXIT, there's nothing to explore in here"
+			"text": "Around here there's only the Fourest and the EXIT, there's nothing to explore in here",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "spoopydepoo bedoop"
+			"text": "spoopydepoo bedoop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Ok, fine, i'll let you go to the EXIT since you insist so much"
+			"text": "Ok, fine, i'll let you go to the EXIT since you insist so much",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "nothing",
+			"expression": "talk",
+			"text": "*TO BE CONTINUED*",
 			"boxState": "normal",
-			"expression": "nothing",
-			"text": "*TO BE CONTINUED*"
+			"speed": 0.05,
+			"portrait": "nothing"
 		}
 	]
 }
