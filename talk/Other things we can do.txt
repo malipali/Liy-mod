@@ -1,0 +1,6 @@
+This is a list of other things we can do before weeks 2 and 3
+- Update Liy sprites
+- Make proper dialogue sprites for Four
+- Change title in title screen to include mod's name
+- Liy dancing on title screen
+- Actually make easy and normal chartings
