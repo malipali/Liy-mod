@@ -1,6 +1,5 @@
 This is a list of other things we can do before weeks 2 and 3
 - Update Liy sprites
-- Change title in title screen to include mod's name
 - Liy dancing on title screen
 - Actually make easy and normal chartings
 Name was changed to "The Liy mod"
