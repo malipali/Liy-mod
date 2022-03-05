@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="LiyAssets.png">
-	<!-- Created with Adobe Animate version 21.0.0.35450 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- Created with Adobe Animate version 2022.i.hate.adobe -->
+	<!-- these are igors old liy sprites, yes i edited the xml.malpal -->
 	<SubTexture name="liy down0000" x="0" y="0" width="353" height="358"/>
 	<SubTexture name="liy down0001" x="0" y="0" width="353" height="358"/>
 	<SubTexture name="liy down0002" x="353" y="0" width="353" height="358"/>

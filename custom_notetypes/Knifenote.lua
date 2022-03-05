@@ -23,6 +23,10 @@ end
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'Knifenote' then
 		playSound('slice', 0.3)
+		characterPlayAnim('boyfriend', 'dodge', true);
+		characterPlayAnim('dad', 'hey', true);
+		setProperty('boyfriend.specialAnim', true);
+		setProperty('dad.specialAnim', true);
 	end
 end
 

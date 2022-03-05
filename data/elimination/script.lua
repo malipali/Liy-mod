@@ -4,6 +4,7 @@ function onStartCountdown()
 	if not allowCountdown and isStoryMode and not seenCutscene then
 		setProperty('inCutscene', true);
 		runTimer('startDialogue', 0.8);
+		addLuaScript('epicScripts/infishake')
 		allowCountdown = true;
 		return Function_Stop;
 	end
