@@ -3,4 +3,5 @@ also because we're probably eventually gonna hit a wall and not know how to do s
 2. how exactly are we gonna do the exit backgrounds? 
 they're 3d.
 https://github.com/ShadowMario/FNF-PsychEngine/wiki/Lua-Script-API:-Tweens-and-Timers#starting-timertween-functions
+https://api.haxeflixel.com/flixel/tweens/FlxEase.html
 saving this for later i'm gonna need it to do something
