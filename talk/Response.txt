@@ -1,0 +1,6 @@
+1. We won't need to do all of that, i decided to scrap the EXIT medley idea
+There's gonna be a Pencil song in it's place, so you'll only need to make Pencil, Foldy, Liy's game over and note miss sprites and Stapy sitting on the speakers
+
+2. We could do a 2D version of the EXIT if we can't make it 3D
+We would still need to find a background artist tho
+
