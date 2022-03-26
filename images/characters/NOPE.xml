@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOPE.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 20000" x="0" y="0" width="105" height="131"/>
+	<SubTexture name="Symbol 30000" x="105" y="0" width="137" height="130"/>
+	<SubTexture name="Symbol 40000" x="242" y="0" width="86" height="117"/>
+	<SubTexture name="Symbol 50000" x="328" y="0" width="87" height="144"/>
+	<SubTexture name="Symbol 60000" x="415" y="0" width="86" height="132"/>
+</TextureAtlas>

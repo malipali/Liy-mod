@@ -3,17 +3,6 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				66,
 				24
 			],
@@ -57,14 +46,25 @@
 		},
 		{
 			"offsets": [
-				121,
+				118,
 				58
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "throw",
-			"loop": false,
+			"indices": [],
 			"name": "thro"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -82,7 +82,7 @@
 	],
 	"camera_position": [
 		-95,
-		-20
+		60
 	],
 	"sing_duration": 6.1,
 	"scale": 0.7

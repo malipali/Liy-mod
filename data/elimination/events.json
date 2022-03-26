@@ -1,0 +1,104 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "fourest",
+		"player1": "bf",
+		"player2": "foury",
+		"player3": null,
+		"events": [
+			[
+				34235.2941176471,
+				[
+					[
+						"Play Animation",
+						"throw",
+						"dad"
+					]
+				]
+			],
+			[
+				34941.1764705882,
+				[
+					[
+						"Play Animation",
+						"throw",
+						"dad"
+					]
+				]
+			],
+			[
+				35647.0588235294,
+				[
+					[
+						"Play Animation",
+						"throw",
+						"dad"
+					]
+				]
+			],
+			[
+				36352.9411764706,
+				[
+					[
+						"Play Animation",
+						"throw",
+						"dad"
+					]
+				]
+			],
+			[
+				37058.8235294118,
+				[
+					[
+						"Play Animation",
+						"throw",
+						"dad"
+					]
+				]
+			],
+			[
+				37764.7058823529,
+				[
+					[
+						"Play Animation",
+						"throw",
+						"dad"
+					]
+				]
+			],
+			[
+				145411.764705882,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145764.705882353,
+				[
+					[
+						"Change Character",
+						"dad",
+						"foury"
+					],
+					[
+						"Play Animation",
+						"timing",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Elimination"
+	}
+}

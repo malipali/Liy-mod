@@ -1,32 +1,26 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"expression": "etalk",
+			"text": "Ok, I'm tired of your crap.",
+			"boxState": "normal",
 			"portrait": "Liyportrait",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Ok i'm tired of your crap"
+			"speed": 0.05,
+			"sound": ""
 		},
 		{
-			"speed": 0.05,
+			"expression": "etalk",
+			"text": "I'm just gonna kill you. No one cares when I prevent death anyways.",
+			"boxState": "normal",
 			"portrait": "liyportrait",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I'm just gonna kill you, no one cares when i prevent death anyways"
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
+			"expression": "shocked",
+			"text": "be bip  beep bappity skebap",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "*flips her switch like in BFB 5*"
-		},
-		{
-			"speed": 0.05,
 			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "beep boob bop"
+			"speed": 0.05
 		}
 	]
 }

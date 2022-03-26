@@ -1,89 +1,90 @@
 {
-	"dialogue_pos": "left",
 	"position": [
-		110,
-		100
+		80,
+		30
 	],
-	"scale": 1.25,
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1,
+	"image": "Liy portrait",
 	"animations": [
 		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
 			"anim": "talk",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_offsets": [
-				-1,
-				-12
-			],
-			"loop_name": "BF LOOP",
-			"idle_name": "BF0"
+			"idle_name": "tstop",
+			"loop_name": "talk"
 		},
 		{
-			"loop_offsets": [
-				5,
-				0
-			],
-			"anim": "excited",
-			"idle_offsets": [
-				4,
-				-8
-			],
-			"loop_name": "BF EXCITED LOOP",
-			"idle_name": "BF EXCITED0"
-		},
-		{
-			"loop_offsets": [
-				0,
-				0
-			],
-			"anim": "pissed",
 			"idle_offsets": [
 				0,
-				0
-			],
-			"loop_name": "BF PISSED LOOP",
-			"idle_name": "BF PISSED0"
-		},
-		{
-			"loop_offsets": [
-				-4,
 				0
 			],
 			"anim": "shocked",
-			"idle_offsets": [
-				-6,
-				-11
+			"loop_offsets": [
+				0,
+				0
 			],
-			"loop_name": "BF SHOCK LOOP",
-			"idle_name": "BF SHOCK0"
+			"idle_name": "sstop",
+			"loop_name": "suprised"
 		},
 		{
-			"idle_offsets": [
-				-6,
-				-11
-			],
-			"anim": "confused",
 			"loop_offsets": [
 				-3,
 				0
 			],
-			"idle_name": "BF CONFUSED0",
-			"loop_name": "BF CONFUSED LOOP"
+			"anim": "confused",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "confused",
+			"idle_name": "cstop"
 		},
 		{
-			"loop_name": "liy talk0003",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "miffed",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "liy stop0003",
-			"anim": "liy portrait",
+			"loop_name": "miffed",
+			"idle_name": "mstop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "angry",
+			"idle_name": "angry"
+		},
+		{
+			"loop_name": "etalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "etstop",
+			"anim": "etalk",
 			"loop_offsets": [
 				0,
 				0
 			]
 		}
-	],
-	"image": "liy portrait"
+	]
 }

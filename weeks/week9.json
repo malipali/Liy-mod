@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"acid",
+			"flow",
+			[
+				226,
+				133,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Easy, Normal, Hard, Endless",
+	"weekCharacters": [
+		"no",
+		"bf",
+		"gf"
+	],
+	"storyName": "FLOWER dance",
+	"weekName": "acid plant medicine",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week8",
+	"startUnlocked": true
+}

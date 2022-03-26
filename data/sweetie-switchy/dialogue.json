@@ -1,53 +1,53 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
+			"expression": "talk",
+			"text": "*casually trying to find a way to escape from Four*",
 			"boxState": "normal",
-			"expression": "liy portrait",
-			"text": "*casually trying to find a way to escape from Four*"
+			"speed": 0.06,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "beep boop funni"
+			"text": "beep boop funni",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
+			"expression": "shocked",
+			"text": "Woah! Who are you?",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Woah! Who are you?"
+			"speed": 0.06,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "beep bee skobidibep skabaladabobeep"
+			"text": "beep bee skobidibep skabaladabobeep",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
+			"expression": "confused",
+			"text": "Uhhhhhhhhhhhhhhhhhh...",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Uhhhhhhhhhhhhhhhhhh"
+			"speed": 0.05,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "sing."
+			"text": "sing.",
+			"boxState": "normal",
+			"speed": 0.02,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Mkay"
+			"text": "okay",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "liyportrait"
 		}
 	]
 }

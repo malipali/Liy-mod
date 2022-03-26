@@ -1,9 +1,9 @@
 {
-	"idle_anim": "liy menu",
-	"confirm_anim": "M Dad Idle",
+	"idle_anim": "idle",
+	"confirm_anim": "hey",
 	"position": [
-		57,
-		-38
+		70,
+		60
 	],
 	"scale": 0.55,
 	"image": "liy menu"

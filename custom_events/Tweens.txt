@@ -1,0 +1,6 @@
+EASY TWEEN EVENT LOL!
+
+BY MALPAL
+
+Value 1: what to tween
+Value 2: duration

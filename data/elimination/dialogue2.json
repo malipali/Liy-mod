@@ -1,60 +1,60 @@
 {
 	"dialogue": [
 		{
-			"expression": "talk",
-			"text": "Hi there, strangers! What are you two doing in here? I don't think you were in my show",
+			"expression": "shocked",
+			"text": "Hi there, strangers! What are you two doing in here? I don't think you were in my show.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "liyportrait"
+			"portrait": "liyportrait",
+			"speed": 0.06
 		},
 		{
 			"expression": "talk",
 			"text": "beep boop skadobeep skopidepoop",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.045
 		},
 		{
-			"expression": "talk",
+			"expression": "shocked",
 			"text": "Oh, so her dad sent you two here... Well, you two shouldn't be in here, it's only for who's eliminated",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "liyportrait"
+			"portrait": "liyportrait",
+			"speed": 0.05
 		},
 		{
-			"expression": "talk",
+			"expression": "confused",
 			"text": "skabadabadobeep bedabadoopeepoobeepo",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
-			"expression": "talk",
+			"expression": "confused",
 			"text": "Around here there's only the Fourest and the EXIT, there's nothing to explore in here",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "liyportrait"
+			"portrait": "liyportrait",
+			"speed": 0.055
 		},
 		{
-			"expression": "talk",
+			"expression": "excited",
 			"text": "spoopydepoo bedoop",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.045
 		},
 		{
-			"expression": "talk",
+			"expression": "miffed",
 			"text": "Ok, fine, i'll let you go to the EXIT since you insist so much",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "liyportrait"
+			"portrait": "liyportrait",
+			"speed": 0.05
 		},
 		{
-			"expression": "talk",
+			"expression": "nothing",
 			"text": "*TO BE CONTINUED*",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "nothing"
+			"portrait": "nothing",
+			"speed": 0.05
 		}
 	]
 }

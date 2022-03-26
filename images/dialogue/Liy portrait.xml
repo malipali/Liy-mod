@@ -1,13 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="Liy portrait.png">
-	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Liy stop0000" x="0" y="0" width="345" height="369"/>
-	<SubTexture name="Liy stop0001" x="0" y="0" width="345" height="369"/>
-	<SubTexture name="Liy stop0002" x="0" y="0" width="345" height="369"/>
-	<SubTexture name="Liy stop0003" x="0" y="0" width="345" height="369"/>
-	<SubTexture name="Liy talk0000" x="345" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="345" frameHeight="369"/>
-	<SubTexture name="Liy talk0001" x="345" y="0" width="345" height="369"/>
-	<SubTexture name="Liy talk0002" x="0" y="369" width="345" height="369"/>
-	<SubTexture name="Liy talk0003" x="345" y="0" width="345" height="369"/>
+	<SubTexture name="angry0000" x="0" y="0" width="441" height="498"/>
+	<SubTexture name="confused0000" x="441" y="0" width="489" height="502"/>
+	<SubTexture name="confused0001" x="441" y="0" width="489" height="502"/>
+	<SubTexture name="confused0002" x="930" y="0" width="485" height="500" frameX="-2" frameY="-2" frameWidth="489" frameHeight="502"/>
+	<SubTexture name="confused0003" x="930" y="0" width="485" height="500" frameX="-2" frameY="-2" frameWidth="489" frameHeight="502"/>
+	<SubTexture name="confused0004" x="1415" y="0" width="484" height="498" frameX="-5" frameY="-4" frameWidth="489" frameHeight="502"/>
+	<SubTexture name="confused0005" x="1415" y="0" width="484" height="498" frameX="-5" frameY="-4" frameWidth="489" frameHeight="502"/>
+	<SubTexture name="cstop0000" x="1899" y="0" width="484" height="498"/>
+	<SubTexture name="etalk0000" x="2383" y="0" width="547" height="502"/>
+	<SubTexture name="etalk0001" x="2383" y="0" width="547" height="502"/>
+	<SubTexture name="etalk0002" x="2930" y="0" width="529" height="500" frameX="-2" frameY="-2" frameWidth="547" frameHeight="502"/>
+	<SubTexture name="etalk0003" x="2930" y="0" width="529" height="500" frameX="-2" frameY="-2" frameWidth="547" frameHeight="502"/>
+	<SubTexture name="etalk0004" x="3459" y="0" width="524" height="498" frameX="-5" frameY="-4" frameWidth="547" frameHeight="502"/>
+	<SubTexture name="etalk0005" x="3459" y="0" width="524" height="498" frameX="-5" frameY="-4" frameWidth="547" frameHeight="502"/>
+	<SubTexture name="etstop0000" x="0" y="502" width="524" height="498"/>
+	<SubTexture name="miffed0000" x="524" y="502" width="441" height="502"/>
+	<SubTexture name="miffed0001" x="524" y="502" width="441" height="502"/>
+	<SubTexture name="miffed0002" x="965" y="502" width="439" height="500" frameX="0" frameY="-2" frameWidth="441" frameHeight="502"/>
+	<SubTexture name="miffed0003" x="965" y="502" width="439" height="500" frameX="0" frameY="-2" frameWidth="441" frameHeight="502"/>
+	<SubTexture name="miffed0004" x="1404" y="502" width="441" height="498" frameX="0" frameY="-4" frameWidth="441" frameHeight="502"/>
+	<SubTexture name="miffed0005" x="1404" y="502" width="441" height="498" frameX="0" frameY="-4" frameWidth="441" frameHeight="502"/>
+	<SubTexture name="mstop0000" x="1404" y="502" width="441" height="498" frameX="0" frameY="0" frameWidth="441" frameHeight="502"/>
+	<SubTexture name="sstop0000" x="1845" y="502" width="433" height="498"/>
+	<SubTexture name="suprised0000" x="2278" y="502" width="449" height="502"/>
+	<SubTexture name="suprised0001" x="2278" y="502" width="449" height="502"/>
+	<SubTexture name="suprised0002" x="2727" y="502" width="438" height="500" frameX="-2" frameY="-2" frameWidth="449" frameHeight="502"/>
+	<SubTexture name="suprised0003" x="2727" y="502" width="438" height="500" frameX="-2" frameY="-2" frameWidth="449" frameHeight="502"/>
+	<SubTexture name="suprised0004" x="3165" y="502" width="433" height="498" frameX="-5" frameY="-4" frameWidth="449" frameHeight="502"/>
+	<SubTexture name="suprised0005" x="3165" y="502" width="433" height="498" frameX="-5" frameY="-4" frameWidth="449" frameHeight="502"/>
+	<SubTexture name="talk0000" x="3598" y="502" width="489" height="502"/>
+	<SubTexture name="talk0001" x="3598" y="502" width="489" height="502"/>
+	<SubTexture name="talk0002" x="0" y="1004" width="485" height="500" frameX="-2" frameY="-2" frameWidth="489" frameHeight="502"/>
+	<SubTexture name="talk0003" x="0" y="1004" width="485" height="500" frameX="-2" frameY="-2" frameWidth="489" frameHeight="502"/>
+	<SubTexture name="talk0004" x="485" y="1004" width="484" height="498" frameX="-5" frameY="-4" frameWidth="489" frameHeight="502"/>
+	<SubTexture name="talk0005" x="485" y="1004" width="484" height="498" frameX="-5" frameY="-4" frameWidth="489" frameHeight="502"/>
+	<SubTexture name="tstop0000" x="969" y="1004" width="484" height="498"/>
 </TextureAtlas>

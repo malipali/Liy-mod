@@ -1,53 +1,53 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
+			"expression": "shocked",
+			"text": "Dude, why don't we escape from here\\ntogether?",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Dude why don't we escape from here together?"
+			"speed": 0.06,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"expression": "excited",
+			"text": "no",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "no"
+			"speed": 0.04,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
+			"expression": "confused",
+			"text": "Why not?",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Why not?"
+			"speed": 0.05,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"expression": "pissed",
+			"text": "you have to beat me first",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "you have to beat me first"
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
+			"expression": "miffed",
+			"text": "That's dumb",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "That's dumb"
+			"speed": 0.04,
+			"portrait": "liyportrait"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"expression": "excited",
+			"text": "beep boop skabidibep next song pls",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "beep boop skabidibep next song pls"
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "liyportrait",
+			"expression": "angry",
+			"text": "...",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "..."
+			"speed": 0.05,
+			"portrait": "liyportrait"
 		}
 	]
 }
