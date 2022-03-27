@@ -8,7 +8,7 @@ function onCreate()
 	setScrollFactor('tempself', 0.9, 0.9);
 
 	if not lowQuality then
-		makeLuaSprite('tempfr', 'tempfr', 800, 400);
+		makeLuaSprite('tempfr', 'tempfr', 900, 0);
 		setScrollFactor('tempfr', 0.6, 0.6);
 
 	end
