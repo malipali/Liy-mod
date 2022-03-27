@@ -1,0 +1,6 @@
+ZOOOOM
+
+BY MALPAL
+
+Value 1: ZOOM, 0.9 is default, increase to go inward, decrease to go outward
+Value 2: does nothing
