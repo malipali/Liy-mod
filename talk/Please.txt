@@ -1,3 +1,4 @@
 Can you put the changes on the other repository too? 
 It makes it easier to test the changes since you don't need to copy and paste the folder every time
 Also i'm making an accelerant cover, do you think that would be cool to add to the mod?
+Nevermind, i'll just copy and paste this to the other repository
