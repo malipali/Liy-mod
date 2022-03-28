@@ -1,6 +1,7 @@
 Liy mod team
-Igorogordo::igorogordo::Project Lead, Charter (all songs except Liy's section of elimination), Programmer, Musician::https://twitter.com/Igorogordo::0xFFBBCEF7
-MalPal::sappysm::Art/Animation (Liy's sprites), Charter (Liy section of elimination), Programmer::twitter.com/theidiotmalpal::0xFF4264B5
-Satan::satin::Chart tester for Click Clock::twitter.com/Satans_dumpster::0xFFFF0000
+Igorogordo::igorogordo::Project Lead, Art/Animation (Liy and Evil Liy), Evil Liy and Four's icons, Charter (all songs except a part of elimination), Programmer, Musician::https://twitter.com/Igorogordo::0xFFBBCEF7
+MalPal::sappysm::Art/Animation (Unused Liy sprites, background adjustments), Liy's icon, Charter (Part of elimination), Programmer::twitter.com/theidiotmalpal::0xFF4264B5
+OKyocket::okyocket::Art/Animation (Four sprites and portrait)::https://twitter.com/DinnerisO::0xFFFFFFFF
+Satan::satin::Beta tester::twitter.com/Satans_dumpster::0xFFFF0000
 BFDI creators
-Jacknjellify::JNJ::Channel that created BFDI and Liy + Fourest background::https://www.youtube.com/user/jacknjellify::0xFF0800FF
+JacknJellify::JNJ::Channel that created BFDI and Liy + Fourest background::https://www.youtube.com/user/jacknjellify::0xFF0085FE
