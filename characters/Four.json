@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fidle"
+		},
+		{
+			"offsets": [
+				14,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "keht"
+		},
+		{
+			"offsets": [
+				7,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mydo"
+		},
+		{
+			"offsets": [
+				-18,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "uh"
+		},
+		{
+			"offsets": [
+				-13,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "righ"
+		},
+		{
+			"offsets": [
+				-7,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "timing",
+			"indices": [],
+			"name": "toim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/astfoir",
+	"position": [
+		-320,
+		120
+	],
+	"healthicon": "four",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		93,
+		177
+	],
+	"camera_position": [
+		40,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

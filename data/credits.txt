@@ -5,3 +5,5 @@ OKyocket::okyocket::Art/Animation (Old Four sprites)::https://twitter.com/Dinner
 Satan::satin::Beta tester::twitter.com/Satans_dumpster::0xFFFF0000
 BFDI creators
 JacknJellify::JNJ::Channel that created BFDI and Liy + Fourest background::https://www.youtube.com/user/jacknjellify::0xFF0085FE
+Other credits
+Cepukka::ACID::Musician (Acid Plant Medicine)::https://soundcloud.com/cepukka::0xFFFF9AFF

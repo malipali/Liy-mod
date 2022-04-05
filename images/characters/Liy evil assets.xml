@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Liy evil assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ELiy Down0000" x="0" y="0" width="312" height="360"/>
+	<SubTexture name="ELiy Down0001" x="0" y="0" width="312" height="360"/>
+	<SubTexture name="ELiy Down0002" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0003" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0004" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0005" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0006" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0007" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0008" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0009" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0010" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0011" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0012" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Down0013" x="312" y="0" width="312" height="357" frameX="0" frameY="-3" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="ELiy Idle0000" x="624" y="0" width="409" height="365" frameX="-23" frameY="0" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0001" x="1033" y="0" width="426" height="360" frameX="-9" frameY="-5" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0002" x="1033" y="0" width="426" height="360" frameX="-9" frameY="-5" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0003" x="1459" y="0" width="444" height="359" frameX="0" frameY="-6" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0004" x="1459" y="0" width="444" height="359" frameX="0" frameY="-6" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0005" x="0" y="365" width="431" height="363" frameX="-9" frameY="-2" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0006" x="0" y="365" width="431" height="363" frameX="-9" frameY="-2" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0007" x="431" y="365" width="413" height="364" frameX="-21" frameY="-1" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0008" x="431" y="365" width="413" height="364" frameX="-21" frameY="-1" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0009" x="431" y="365" width="413" height="364" frameX="-21" frameY="-1" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0010" x="431" y="365" width="413" height="364" frameX="-21" frameY="-1" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0011" x="431" y="365" width="413" height="364" frameX="-21" frameY="-1" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0012" x="431" y="365" width="413" height="364" frameX="-21" frameY="-1" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Idle0013" x="431" y="365" width="413" height="364" frameX="-21" frameY="-1" frameWidth="444" frameHeight="365"/>
+	<SubTexture name="ELiy Left0000" x="844" y="365" width="535" height="368" frameX="-2" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0001" x="844" y="365" width="535" height="368" frameX="-2" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0002" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0003" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0004" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0005" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0006" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0007" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0008" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0009" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0010" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0011" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0012" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Left0013" x="1379" y="365" width="535" height="368" frameX="0" frameY="0" frameWidth="537" frameHeight="368"/>
+	<SubTexture name="ELiy Right0000" x="0" y="733" width="475" height="368" frameX="0" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0001" x="0" y="733" width="475" height="368" frameX="0" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0002" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0003" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0004" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0005" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0006" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0007" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0008" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0009" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0010" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0011" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0012" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Right0013" x="475" y="733" width="475" height="368" frameX="-1" frameY="0" frameWidth="476" frameHeight="368"/>
+	<SubTexture name="ELiy Throw Knife0000" x="950" y="733" width="475" height="369" frameX="-76" frameY="-10" frameWidth="551" frameHeight="379"/>
+	<SubTexture name="ELiy Throw Knife0001" x="1425" y="733" width="466" height="369" frameX="-76" frameY="-10" frameWidth="551" frameHeight="379"/>
+	<SubTexture name="ELiy Throw Knife0002" x="0" y="1102" width="421" height="371" frameX="-82" frameY="-8" frameWidth="551" frameHeight="379"/>
+	<SubTexture name="ELiy Throw Knife0003" x="421" y="1102" width="357" height="379" frameX="-78" frameY="0" frameWidth="551" frameHeight="379"/>
+	<SubTexture name="ELiy Throw Knife0004" x="778" y="1102" width="435" height="379" frameX="0" frameY="0" frameWidth="551" frameHeight="379"/>
+	<SubTexture name="ELiy Throw Knife0005" x="778" y="1102" width="435" height="379" frameX="0" frameY="0" frameWidth="551" frameHeight="379"/>
+	<SubTexture name="ELiy Up0000" x="1213" y="1102" width="360" height="389"/>
+	<SubTexture name="ELiy Up0001" x="1213" y="1102" width="360" height="389"/>
+	<SubTexture name="ELiy Up0002" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0003" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0004" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0005" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0006" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0007" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0008" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0009" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0010" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0011" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0012" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+	<SubTexture name="ELiy Up0013" x="1573" y="1102" width="333" height="382" frameX="0" frameY="-7" frameWidth="360" frameHeight="389"/>
+</TextureAtlas>

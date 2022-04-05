@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				139,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				-13,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "liy left"
+		},
+		{
+			"offsets": [
+				16,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "liy down"
+		},
+		{
+			"offsets": [
+				22,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "liy up"
+		},
+		{
+			"offsets": [
+				29,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "liy right"
+		},
+		{
+			"offsets": [
+				13,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "liy idle"
+		},
+		{
+			"offsets": [
+				13,
+				-47
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "liy idle"
+		},
+		{
+			"offsets": [
+				-13,
+				-46
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "liy left"
+		},
+		{
+			"offsets": [
+				29,
+				-49
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "liy right"
+		},
+		{
+			"offsets": [
+				22,
+				-47
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "liy up"
+		},
+		{
+			"offsets": [
+				16,
+				-64
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-Loop",
+			"indices": [],
+			"name": "liy down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nothing",
+	"position": [
+		-10,
+		290
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-140,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
