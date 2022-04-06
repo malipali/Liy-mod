@@ -8,7 +8,7 @@ function onCreate()
 	setScrollFactor('trey4', 0.7, 0.7);
 
 	if not lowQuality then
-		makeLuaSprite('signrotta', 'signrotta', 800, 400);
+		makeLuaSprite('signrotta', 'signrotta', 1000, 500);
 		setScrollFactor('signrotta', 0.9, 0.9);
 		scaleObject('signrotta', 0.8, 0.8);
 

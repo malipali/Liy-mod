@@ -1,0 +1,42 @@
+{
+	"dialogue": [
+		{
+			"expression": "etalk",
+			"text": "Do you really want me to attempt murder again?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Liyportrait"
+		},
+		{
+			"expression": "etalk",
+			"text": "Why do you want this?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "liyportrait"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "etalk",
+			"text": "Alas, I cannot control you. Go ahead. Relive this."
+		},
+		{
+			"expression": "confused",
+			"text": "beep bleep skeebep who are you talking to",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "liyportrait",
+			"boxState": "normal",
+			"expression": "etalk",
+			"text": "i hate you."
+		}
+	]
+}

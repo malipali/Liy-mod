@@ -13,7 +13,7 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"difficulties": "Easy, Normal, Hard, Endless",
+	"difficulties": "Hard, Endless",
 	"weekCharacters": [
 		"no",
 		"bf",

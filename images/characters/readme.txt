@@ -1,1 +1,1 @@
-Put your custom character image and .xml/.txt files here!
+the original liy (liyumod_OG, not LiyAssets) is just liyumod but with a left offset of 66,24

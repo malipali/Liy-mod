@@ -1,6 +1,8 @@
 local allowCountdown = false;
 local playDialogue = false;
 function onStartCountdown()
+		initSaveData('sus', 'elimination')
+		SetDataFromSave('sus', 'played', 'true')
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
 	if not allowCountdown and isStoryMode and not seenCutscene then
 		startVideo('testVideo');
@@ -18,7 +20,12 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
+		getDataFromSave(sus, played)
+		if played == false then
 		startDialogue('dialogue', 'breakfast');
+		else
+		startDialogue('dialogue3', 'breakfast');
+		end
 	end
 end
 
@@ -34,7 +41,7 @@ end
 local allowEndShit = false
 
 function onEndSong()
-  if not allowEndShit and isStoryMode and not seenCutscene then
+  if not allowEndShit and isStoryMode then
     setProperty('inCutscene', true);
     startDialogue('dialogue2', 'breakfast'); 
     allowEndShit = true;

@@ -3,19 +3,13 @@
 	"difficulties": "Easy, Normal, Hard, Endless",
 	"hideFreeplay": false,
 	"weekBackground": "liy",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"liymenu",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
 			"sweetie switchy",
@@ -45,5 +39,11 @@
 			]
 		]
 	],
+	"weekCharacters": [
+		"liymenu",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
 	"weekName": "week liy"
 }

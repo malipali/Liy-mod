@@ -1,0 +1,6 @@
+HIDE HUD
+
+BY MALPAL
+
+Value 1: true or false
+Value 2: does nothing
