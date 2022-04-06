@@ -1,0 +1,24 @@
+{
+	"position": [
+		-50,
+		-110
+	],
+	"dialogue_pos": "left",
+	"scale": 0.75,
+	"image": "astfoir",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "fidle",
+			"loop_name": "fidle"
+		}
+	]
+}

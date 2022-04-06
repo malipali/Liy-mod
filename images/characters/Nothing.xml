@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LiyAssets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="liy down0000" x="0" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0001" x="0" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0002" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0003" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0004" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0005" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0006" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0007" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0008" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0009" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0010" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0011" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0012" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy down0013" x="353" y="0" width="353" height="358"/>
+	<SubTexture name="liy idle0000" x="706" y="0" width="346" height="371" frameX="-9" frameY="-2" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0001" x="1052" y="0" width="351" height="371" frameX="-6" frameY="-2" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0002" x="1403" y="0" width="362" height="372" frameX="0" frameY="0" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0003" x="0" y="372" width="357" height="371" frameX="-2" frameY="-1" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0004" x="0" y="372" width="357" height="371" frameX="-2" frameY="-1" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0005" x="357" y="372" width="346" height="370" frameX="-9" frameY="-2" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0006" x="703" y="372" width="346" height="370" frameX="-9" frameY="-2" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0007" x="703" y="372" width="346" height="370" frameX="-9" frameY="-2" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0008" x="1049" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0009" x="1049" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0010" x="1049" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0011" x="1049" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0012" x="1049" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy idle0013" x="1049" y="372" width="346" height="369" frameX="-9" frameY="-3" frameWidth="362" frameHeight="373"/>
+	<SubTexture name="liy left0000" x="1395" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0001" x="1395" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0002" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0003" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0004" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0005" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0006" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0007" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0008" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0009" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0010" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0011" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0012" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy left0013" x="1714" y="372" width="319" height="372"/>
+	<SubTexture name="liy right0000" x="0" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0001" x="0" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0002" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0003" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0004" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0005" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0006" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0007" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0008" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0009" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0010" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0011" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0012" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy right0013" x="403" y="744" width="403" height="369"/>
+	<SubTexture name="liy up0000" x="806" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0001" x="806" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0002" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0003" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0004" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0005" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0006" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0007" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0008" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0009" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0010" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0011" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0012" x="1193" y="744" width="387" height="372"/>
+	<SubTexture name="liy up0013" x="1193" y="744" width="387" height="372"/>
+</TextureAtlas>
