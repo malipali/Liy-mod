@@ -8,3 +8,7 @@ tbh idc anymore about doing all of that work
 also we need to make a transition animation for liy to four because rn it looks weird
 and i'll have to figure out how to code a beam bc animating one will be too big for the spritesheet
 there might be a lua function, or maybe make it a seperate spritesheet
+
+James
+I was thinking more like Four's arm comes from offscreen, grabs Liy and pulls her really fast and the sweep sound that plays being like that sound the air makes when something moves really fast, like when a car passes it makes that sound idk how to explain
+If you want to make Four hitting her with a beam it's fine by me tho
