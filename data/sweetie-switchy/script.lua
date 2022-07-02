@@ -1,3 +1,5 @@
+addLuaScript(script/script.lua)
+
 local allowCountdown = false
 function onStartCountdown()
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="liyumod.png">
-	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="doown0000" x="0" y="0" width="399" height="510" frameX="0" frameY="-20" frameWidth="399" frameHeight="536"/>
 	<SubTexture name="doown0001" x="0" y="0" width="399" height="510" frameX="0" frameY="-20" frameWidth="399" frameHeight="536"/>
@@ -31,21 +31,21 @@
 	<SubTexture name="idle0011" x="2573" y="0" width="436" height="498" frameX="-9" frameY="-8" frameWidth="450" frameHeight="507"/>
 	<SubTexture name="idle0012" x="2573" y="0" width="436" height="498" frameX="-9" frameY="-8" frameWidth="450" frameHeight="507"/>
 	<SubTexture name="idle0013" x="2573" y="0" width="436" height="498" frameX="-9" frameY="-8" frameWidth="450" frameHeight="507"/>
-	<SubTexture name="lehft0000" x="3009" y="0" width="474" height="542" frameX="0" frameY="0" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0001" x="3009" y="0" width="474" height="542" frameX="0" frameY="0" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0002" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0003" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0004" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0005" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0006" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0007" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0008" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0009" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0010" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0011" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0012" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0013" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
-	<SubTexture name="lehft0014" x="3483" y="0" width="510" height="534" frameX="-2" frameY="-6" frameWidth="512" frameHeight="542"/>
+	<SubTexture name="lehft0000" x="3009" y="0" width="479" height="542" frameX="0" frameY="0" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0001" x="3009" y="0" width="479" height="542" frameX="0" frameY="0" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0002" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0003" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0004" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0005" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0006" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0007" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0008" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0009" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0010" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0011" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0012" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0013" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
+	<SubTexture name="lehft0014" x="3488" y="0" width="470" height="534" frameX="-19" frameY="-6" frameWidth="489" frameHeight="542"/>
 	<SubTexture name="right0000" x="0" y="542" width="466" height="498" frameX="-2" frameY="0" frameWidth="468" frameHeight="498"/>
 	<SubTexture name="right0001" x="0" y="542" width="466" height="498" frameX="-2" frameY="0" frameWidth="468" frameHeight="498"/>
 	<SubTexture name="right0002" x="466" y="542" width="466" height="498" frameX="0" frameY="0" frameWidth="468" frameHeight="498"/>

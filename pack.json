@@ -1,6 +1,6 @@
 {
 	"name": "Liy Mod",
-	"description": "Lightswitch known as 'Liy' in the BFDI universe battles you. ",
+	"description": "Lightswitch known as 'Liy' in the BFDI universe battles you. (will restart Psych Engine)",
 	"restart":true,
-	"color": [170, 182, 229]
+	"color": [170, 180, 255]
 }

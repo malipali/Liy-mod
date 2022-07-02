@@ -12,6 +12,9 @@ function onStartCountdown()
 	elseif playDialogue then
 		setProperty('inCutscene', true);
 		runTimer('startDialogue', 0.8);
+        	if keyPress(27)==true then
+            runTimer('endDialogue', true)
+        end
 		playDialogue = false;
 		return Function_Stop;
 	end

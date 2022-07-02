@@ -4,6 +4,9 @@ function onStartCountdown()
 	if not allowCountdown and isStoryMode and not seenCutscene then
 		setProperty('inCutscene', true);
 		runTimer('startDialogue', 0.8);
+        	if keyPress(27)==true then
+            runTimer('endDialogue', true)
+        end
 		allowCountdown = true;
 		return Function_Stop;
 	end
