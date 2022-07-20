@@ -1,20 +1,19 @@
 local allowCountdown = false;
 local playDialogue = false;
 function onStartCountdown()
-		initSaveData('sus', 'elimination')
-		SetDataFromSave('sus', 'played', 'true')
+		initSaveData(⁪elimination, liymod)
+		setDataFromSave(liymod, elimination, played)
+		flushSaveData(liymod)
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
-	if not allowCountdown and isStoryMode and not seenCutscene then
+	if not allowCountdown and isStoryMode then
 		startVideo('testVideo');
-		allowCountdown = true;
-		playDialogue = true;
+		allowCountdown = false;
+		playDialogue = false;
 		return Function_Stop;
 	elseif playDialogue then
 		setProperty('inCutscene', true);
 		runTimer('startDialogue', 0.8);
-        	if keyPress(27)==true then
-            runTimer('endDialogue', true)
-        end
+		allowCountdown = false;
 		playDialogue = false;
 		return Function_Stop;
 	end
@@ -23,8 +22,8 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
-		getDataFromSave(sus, played)
-		if played == false then
+		getDataFromSave(liymod, elimination)
+		if elimination == played then
 		startDialogue('dialogue', 'breakfast');
 		else
 		startDialogue('dialogue3', 'breakfast');
