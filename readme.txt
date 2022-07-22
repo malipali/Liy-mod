@@ -1,4 +1,4 @@
-Thanks for downloading the Vs. Liy Mod!
+Thanks for downloading the Liy Mod!
 ||         ||||||||   ||      ||
 ||            ||        ||  ||
 ||            ||          ||
@@ -10,3 +10,4 @@ Thanks for downloading the Vs. Liy Mod!
 || || ||   ||    ||   ||      ||
 ||    ||   ||    ||   ||    ||
 ||    ||   ||||||||   ||||||
+Don't forget to download the DLC if you want bonus songs!
